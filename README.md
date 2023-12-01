@@ -1,4 +1,4 @@
-![](https://github.com/DarkPlaying/DarkPlaying/blob/main/Make%20your%20README.pdf)
+![](https://github.com/DarkPlaying/DarkPlaying/blob/main/README.jpg)
 ### Hi there 👋
 
 <!--
