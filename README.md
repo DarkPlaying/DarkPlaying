@@ -1,4 +1,4 @@
-
+![logo](https://github.com/DarkPlaying/DarkPlaying/blob/main/Make%20your%20README.png)
 ### Hi there 👋
 
 <!--
