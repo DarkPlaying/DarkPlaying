@@ -4,7 +4,7 @@
   <img src="https://i.gifer.com/74pZ.gif" alt="Technical Proficiency GIF" width="200"/>
 </div>
 
-Hello there! I'm [Your Full Name], a dynamic and versatile professional in the realms of software development and cybersecurity. With a robust skill set and a passion for crafting innovative solutions, I bring a unique blend of creativity and security expertise to the tech world.
+Hello there! I'm Sanjay.M, a dynamic and versatile professional in the realms of software development and cybersecurity. With a robust skill set and a passion for crafting innovative solutions, I bring a unique blend of creativity and security expertise to the tech world.
 
 ## 🛠️ Technical Proficiency:
 
