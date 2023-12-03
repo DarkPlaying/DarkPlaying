@@ -1,4 +1,4 @@
-![](https://github.com/DarkPlaying/DarkPlaying/blob/main/README.jpg)
+![](https://github.com/DarkPlaying/DarkPlaying/blob/main/README.jpg) 
 # 🚀 Passionate App and Web Developer | Cybersecurity Analyst | Ethical Hacker 🌐
 <div align="right">
   <img src="https://i.gifer.com/74pZ.gif" alt="Technical Proficiency GIF" width="200"/>
