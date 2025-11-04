@@ -1,7 +1,7 @@
 ![](https://github.com/DarkPlaying/DarkPlaying/blob/main/README.jpg) 
 # 🚀 Passionate App and Web Developer | Cybersecurity Analyst | Ethical Hacker 🌐
 
-Hello there! I'm [Your Full Name], a dynamic and versatile professional in the realms of software development and cybersecurity. With a robust skill set and a passion for crafting innovative solutions, I bring a unique blend of creativity and security expertise to the tech world.
+Hello there! I'm Sanjay M, a dynamic and versatile professional in the realms of software development and cybersecurity. With a robust skill set and a passion for crafting innovative solutions, I bring a unique blend of creativity and security expertise to the tech world.
 
 ## 🛠️ Technical Proficiency:
 
